@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm García Daián</h1>
-<h3 align="center">A passionate frontend developer from I am interested in web development and everything that has to do with programming.India</h3>
+<h3 align="center">I am interested in web development and everything that has to do with programming.</h3>
 
 - 🌱 I’m currently learning **HTML, Javascript, reactJS, CSS**
 
