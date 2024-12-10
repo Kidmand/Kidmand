@@ -11,6 +11,10 @@
 
 - Mi portafolio **https://67563749a1e2430008106644--stellular-pie-1ad67a.netlify.app/**
 
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/daián-exequiel-garcía-giménez-827846282" target="_blank"> Mi portafolio</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/daián-exequiel-garcía-giménez-827846282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/daián-exequiel-garcía-giménez-827846282" height="30" width="40" /></a>
