@@ -11,7 +11,7 @@
 
 <h3 align="left">Visit my website:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/daián-exequiel-garcía-giménez-827846282" target="_blank"> Mi portafolio</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/daián-exequiel-garcía-giménez-827846282" target="_blank">Portafolio</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
