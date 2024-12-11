@@ -11,7 +11,7 @@
 
 <h3 align="left">Visit my website:</h3>
 <p align="left">
-    <a href="https://daian-portfolio.netlify.app/" target="_blank">Portafolio</a>
+    <a href="https://daian-portfolio.netlify.app/" target="_blank">PORTFOLIO-DAIAN</a>
 </p>
 
 
