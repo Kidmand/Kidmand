@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm García Daián</h1>
 <h3 align="center">I am interested in web development and everything that has to do with programming</h3>
 
-- 🌱 I’m currently learning **HTML, Javascript, reactJS, CSS**
-
+- 🌱 I’m currently learning **HTML, Javascript, reactJS, CSS, Python, Java, Node.Js**
 - 👯 I’m looking to collaborate on **software development**
 
 - 💬 Ask me about **I am a system analyst and I love learning all kinds of things, I am very curious and dedicated to the things I learn.**
